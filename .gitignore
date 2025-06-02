@@ -1,0 +1,11 @@
+build
+output
+out
+.cache
+*.vtk
+*.vtu
+*.vts
+*.vti
+*.vtp
+*.phantom
+*.txt
