@@ -1,7 +1,9 @@
 build
 output
 out
+CMakeFiles
 .cache
+.vscode
 *.vtk
 *.vtu
 *.vts
