@@ -3,16 +3,16 @@
   "fieldNameU": "U",
   "fieldNameRST": "RST",
   "outputFolder": "./output",
-  "seedName": "seeds/sparse_uniform_seeds_short_1p5M.txt",
+  "seedName": "seeds/sparse_uniform_seeds_1p5M.txt",
   "entranceName": "seeds/entrance_seeds.txt",
   "h5filename": "output.h5",
-  "stepSize": 25E-5,
+  "stepSize": 16E-5,
   "delta_t": 650e-3,
   "numStepsToWrite": 10,
 
   "turbulent" : true, 
 
-  "phantomFileName": "prueba_reset_dt_0p25ms.phantom",
+  "phantomFileName": "sUbend_1p5M_spins_turb.phantom",
   "T1": 0.3,
   "T2": 0.1,
   "PD": 1.0
