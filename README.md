@@ -90,5 +90,6 @@ An example of compilation using CMake and vtk-m is provider here: [VTK-m Buildin
 ## 5. Minimal working examples
 
 
-The source of this project includes two minimal working examples of the solvers: sUbend_mwe and aorta_mwe. Each example has a python notebbook to prepare the simulation data and scripts to run each solver.
+The source of this project includes two minimal working examples of the solvers: [sUbend_mwe](https://github.com/jsierra-pallares/spinAdvection/tree/main/examples/sUbend_mwe) and [aorta_mwe](https://github.com/jsierra-pallares/spinAdvection/tree/main/examples/aorta_mwe). Each example has a python notebbook to prepare the simulation data and scripts to run each solver.
+
 
