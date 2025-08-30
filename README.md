@@ -80,8 +80,6 @@ If you're using a specific compiler or triplet, specify it during installation:
 ---
 
 
----
-
 By following these steps, you will have VTK-m, vcpkg, and the required libraries installed and ready for use.
 
 ## 4. Compilation of the project
@@ -93,3 +91,4 @@ An example of compilation using CMake and vtk-m is provider here: [VTK-m Buildin
 
 
 The source of this project includes two minimal working examples of the solvers: sUbend_mwe and aorta_mwe. Each example has a python notebbook to prepare the simulation data and scripts to run each solver.
+
