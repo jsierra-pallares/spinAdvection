@@ -1,0 +1,17 @@
+{
+  "dataFile": "sUbend_modified.vtk",
+  "fieldNameU": "U",
+  "fieldNameRST": "RST",
+  "delta_t": 0.2e-2,
+  "stepSize": 1E-05,
+  "numStepsToWrite": 50,
+  "outputFolder": "./output",
+  "seedName": "internal_seeds.txt",
+  "entranceName": "entrance_seeds.txt",
+  "h5filename": "output.h5",
+  "turbulent" : true, 
+  "phantomFileName": "sUbend_1p5M_spins_turb.phantom",
+  "T1": 0.3,
+  "T2": 0.1,
+  "PD": 1.0
+}
