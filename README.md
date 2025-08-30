@@ -17,7 +17,6 @@ VTK-m is a toolkit for scientific visualization. Follow the instructions on the 
 - Be sure to compile using C++14 for compatibility. This can be done adding the appropriate flag to your compiler
 - To use CUDA you need to install the CUDA toolkit from NVIDIA. Follow the instructions on the [NVIDIA CUDA Installation Guide](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html) for your specific operating system.
 - VTK-m can be compiled for use with different accelrators. CUDA and OpenMP are supported in this project.
----
 
 ---
 **NOTE**
@@ -91,5 +90,6 @@ Source code for both solvers are provided in the repo along with a CMakeLists.tx
 An example of compilation using CMake and vtk-m is provider here: [VTK-m Building Guide](https://gitlab.kitware.com/vtk/vtk-m/blob/master/README.md#building).
 
 ## 5. Minimal working examples
+
 
 The source of this project includes two minimal working examples of the solvers: sUbend_mwe and aorta_mwe. Each example has a python notebbook to prepare the simulation data and scripts to run each solver.
