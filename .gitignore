@@ -4,10 +4,9 @@ out
 CMakeFiles
 .cache
 .vscode
+*.txt
 *.vtk
-*.vtu
 *.vts
 *.vti
 *.vtp
-*.phantom
-*.txt
+**/VTK/*.vtu

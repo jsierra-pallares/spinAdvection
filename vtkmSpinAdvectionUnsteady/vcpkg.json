@@ -1,6 +1,6 @@
 {
-  "dependencies": [
-    "highfive",
-    "nlohmann-json"
-  ]
-}
+    "dependencies": [
+      "highfive",
+      "nlohmann-json"
+    ]
+  }
